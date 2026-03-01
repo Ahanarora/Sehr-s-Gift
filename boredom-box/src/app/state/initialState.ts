@@ -25,7 +25,12 @@ export const createInitialConversationSession = (): ConversationSession => ({
   lastTone: undefined,
   modeFilter: undefined,
   bias: "none",
-  biasLevels: {},
+  biasLevels: {
+    lighter: 1,
+    deeper: 1,
+    spicier: 1,
+    none: 1,
+  },
 });
 
 export const createInitialState = (

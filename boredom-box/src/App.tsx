@@ -15,7 +15,6 @@ import HomeScreen from "./screens/HomeScreen";
 import TriviaPlayerSetupScreen from "./screens/TriviaPlayerSetupScreen";
 import TriviaQuestionScreen from "./screens/TriviaQuestionScreen";
 import ConversationScreen from "./screens/ConversationScreen";
-import { remainingPromptsCount } from "./app/state/engine";
 import WelcomeScreen from "./screens/WelcomeScreen";
 
 const initialStateFromStorage = (): AppState => {

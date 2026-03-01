@@ -1,4 +1,4 @@
-import { ChangeEvent, useState } from "react";
+import { type ChangeEvent, useState } from "react";
 import Button from "../components/Button";
 import { tones as allTones } from "../app/data/conversation";
 import type { ConversationBias, ConversationPrompt, Tone } from "../app/state/types";
