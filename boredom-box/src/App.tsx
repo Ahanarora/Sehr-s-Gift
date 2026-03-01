@@ -5,11 +5,9 @@ import type { AppState } from "./app/state/types";
 import { createInitialState } from "./app/state/initialState";
 import {
   loadPlayers,
-  loadSeenPrompts,
   loadSeenQuestions,
   loadLifetimeScores,
   savePlayers,
-  saveSeenPrompts,
   saveSeenQuestions,
   saveLifetimeScores,
 } from "./app/state/storage";
@@ -18,13 +16,13 @@ import TriviaPlayerSetupScreen from "./screens/TriviaPlayerSetupScreen";
 import TriviaQuestionScreen from "./screens/TriviaQuestionScreen";
 import ConversationScreen from "./screens/ConversationScreen";
 import { remainingPromptsCount } from "./app/state/engine";
+import WelcomeScreen from "./screens/WelcomeScreen";
 
 const initialStateFromStorage = (): AppState => {
   const players = loadPlayers();
   const seenQuestions = loadSeenQuestions();
-  const seenPrompts = loadSeenPrompts();
   const lifetimeScores = loadLifetimeScores();
-  return createInitialState(players, seenQuestions, seenPrompts, lifetimeScores);
+  return createInitialState(players, seenQuestions, {}, lifetimeScores);
 };
 
 function App() {
@@ -41,14 +39,11 @@ function App() {
   }, [state.seenQuestions]);
 
   useEffect(() => {
-    saveSeenPrompts(state.seenPrompts);
-  }, [state.seenPrompts]);
-
-  useEffect(() => {
     saveLifetimeScores(state.lifetimeScores);
   }, [state.lifetimeScores]);
 
   const goHome = () => dispatch({ type: "SET_MODE", mode: "home" });
+  const enter = () => dispatch({ type: "SET_MODE", mode: "home" });
   const startTrivia = () => dispatch({ type: "SET_MODE", mode: "trivia-setup" });
   const startConversation = () => dispatch({ type: "SET_MODE", mode: "conversation" });
   const startTriviaRound = () => dispatch({ type: "START_TRIVIA_ROUND" });
@@ -59,6 +54,8 @@ function App() {
 
   const renderScreen = () => {
     switch (state.mode) {
+      case "welcome":
+        return <WelcomeScreen onEnter={enter} />;
       case "home":
         return (
           <HomeScreen
@@ -73,6 +70,7 @@ function App() {
         return (
           <TriviaPlayerSetupScreen
             players={state.players}
+            lifetimeScores={state.lifetimeScores}
             onAddPlayer={(name) => dispatch({ type: "ADD_PLAYER", name })}
             onRemovePlayer={(id) => dispatch({ type: "REMOVE_PLAYER", id })}
             onRenamePlayer={(id, name) =>
@@ -109,14 +107,11 @@ function App() {
         return (
           <ConversationScreen
             prompt={state.conversationSession.activePrompt}
-            seenCount={Object.keys(state.seenPrompts).length}
-            remainingCount={remainingPromptsCount(
-              state.seenPrompts,
-              state.conversationSession.modeFilter,
-            )}
             onNext={(bias) => dispatch({ type: "NEXT_PROMPT", bias })}
             onReset={handleResetConversation}
             onHome={goHome}
+            activeTones={state.conversationSession.modeFilter}
+            onChangeTones={(tones) => dispatch({ type: "SET_MODE_FILTER", tones })}
           />
         );
 

@@ -25,6 +25,7 @@ export const createInitialConversationSession = (): ConversationSession => ({
   lastTone: undefined,
   modeFilter: undefined,
   bias: "none",
+  biasLevels: {},
 });
 
 export const createInitialState = (
@@ -33,7 +34,7 @@ export const createInitialState = (
   seenPrompts: SeenRecord = {},
   lifetimeScores: Record<string, number> = {},
 ): AppState => ({
-  mode: "home",
+  mode: "welcome",
   players,
   triviaSession: createInitialTriviaSession(),
   conversationSession: createInitialConversationSession(),

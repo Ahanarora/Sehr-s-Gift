@@ -62,18 +62,35 @@ const biasToTones = (bias?: ConversationBias): Tone[] | undefined => {
 
 interface PromptPickerInput {
   modeFilter?: Tone[];
-  seenPrompts: SeenRecord;
+  seenPrompts?: SeenRecord;
   lastTone?: Tone;
   bias?: ConversationBias;
+  targetLevel?: number;
 }
 
 export const pickConversationPrompt = (
   input: PromptPickerInput,
 ): ConversationPrompt | undefined => {
-  const { modeFilter, seenPrompts, lastTone, bias } = input;
-  const pool = conversationPrompts.filter(
-    (p) => (!modeFilter || modeFilter.includes(p.tone)) && !seenPrompts[p.id],
-  );
+  const { modeFilter, seenPrompts = {}, lastTone, bias, targetLevel } = input;
+  const basePool = conversationPrompts.filter((p) => {
+    if (modeFilter && !modeFilter.includes(p.tone)) return false;
+    if (bias && p.bias !== bias) return false;
+    return !seenPrompts[p.id];
+  });
+
+  if (basePool.length === 0) return undefined;
+
+  let pool = basePool;
+
+  if (typeof targetLevel === "number") {
+    for (let level = targetLevel; level <= 3; level++) {
+      const levelPool = basePool.filter((p) => (p.level ?? 1) === level);
+      if (levelPool.length > 0) {
+        pool = levelPool;
+        break;
+      }
+    }
+  }
 
   if (pool.length === 0) return undefined;
 
@@ -104,13 +121,8 @@ export const pickConversationPrompt = (
   return randomPick(tonePool);
 };
 
-export const remainingPromptsCount = (
-  seenPrompts: SeenRecord,
-  modeFilter?: Tone[],
-): number => {
-  return conversationPrompts.filter(
-    (p) => (!modeFilter || modeFilter.includes(p.tone)) && !seenPrompts[p.id],
-  ).length;
+export const remainingPromptsCount = (modeFilter?: Tone[]): number => {
+  return conversationPrompts.filter((p) => !modeFilter || modeFilter.includes(p.tone)).length;
 };
 
 export const remainingQuestionsCount = (

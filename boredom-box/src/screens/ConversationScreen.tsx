@@ -1,25 +1,42 @@
+import { ChangeEvent, useState } from "react";
 import Button from "../components/Button";
-import type { ConversationBias, ConversationPrompt } from "../app/state/types";
+import { tones as allTones } from "../app/data/conversation";
+import type { ConversationBias, ConversationPrompt, Tone } from "../app/state/types";
 
 interface Props {
   prompt?: ConversationPrompt;
-  seenCount: number;
-  remainingCount: number;
   onNext: (bias?: ConversationBias) => void;
   onReset: () => void;
   onHome: () => void;
+  activeTones?: Tone[];
+  onChangeTones: (tones?: Tone[]) => void;
 }
 
 export const ConversationScreen = ({
   prompt,
-  seenCount,
-  remainingCount,
   onNext,
   onReset,
   onHome,
+  activeTones,
+  onChangeTones,
 }: Props) => {
+  const [showFilter, setShowFilter] = useState(false);
+
+  const handleToneChange = (e: ChangeEvent<HTMLSelectElement>) => {
+    const selected = Array.from(e.target.selectedOptions).map((o) => o.value as Tone);
+    onChangeTones(selected.length ? selected : undefined);
+  };
+
+  const toggleTone = (tone: Tone) => {
+    const current = new Set(activeTones ?? []);
+    if (current.has(tone)) current.delete(tone);
+    else current.add(tone);
+    const updated = Array.from(current);
+    onChangeTones(updated.length ? updated : undefined);
+  };
+
   return (
-    <div className="bb-screen">
+    <div className="bb-screen bb-screen--conversation">
       <div className="bb-topbar">
         <h2>Conversation Randomizer</h2>
         <div className="bb-topbar-right">
@@ -34,7 +51,10 @@ export const ConversationScreen = ({
 
       {prompt ? (
         <div className="bb-card bb-prompt">
-          <p className="bb-label">Tone: {prompt.tone}</p>
+          <p className="bb-label">
+            Tone: {prompt.tone}
+            {prompt.level ? ` • Level ${prompt.level}` : ""}
+          </p>
           <h3>{prompt.text}</h3>
         </div>
       ) : (
@@ -46,20 +66,61 @@ export const ConversationScreen = ({
       <div className="bb-actions">
         <Button onClick={() => onNext()}>Next Prompt</Button>
         <Button variant="secondary" onClick={() => onNext("lighter")}>
-          Lighter 😄
+          Lighter 🍃
         </Button>
         <Button variant="secondary" onClick={() => onNext("deeper")}>
-          Deeper ❤️
+          Deeper 🌊
         </Button>
         <Button variant="secondary" onClick={() => onNext("spicier")}>
-          Spicier 🔥
+          Spicier 🌶️
         </Button>
       </div>
 
-      <div className="bb-status">
-        <span>Seen prompts: {seenCount}</span>
-        <span>Remaining: {remainingCount}</span>
+      <div className="bb-subsection">
+        <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+          <p className="bb-label" style={{ margin: 0 }}>
+            Filter tones (multi-select)
+          </p>
+          <Button variant="secondary" onClick={() => setShowFilter((v) => !v)}>
+            {showFilter ? "Hide" : "Show"}
+          </Button>
+        </div>
+        {showFilter && (
+          <select
+            multiple
+            value={activeTones ?? []}
+            onChange={handleToneChange}
+            className="bb-input"
+            style={{ minHeight: 120, marginTop: 8 }}
+          >
+            {allTones.map((tone) => (
+              <option key={tone} value={tone}>
+                {tone}
+              </option>
+            ))}
+          </select>
+        )}
+
+        {showFilter && (
+          <div style={{ marginTop: 12, display: "grid", gap: 6 }}>
+            {allTones.map((tone) => {
+              const checked = activeTones?.includes(tone) ?? false;
+              return (
+                <label key={`${tone}-tick`} style={{ display: "flex", gap: 8, alignItems: "center" }}>
+                  <input
+                    type="checkbox"
+                    checked={checked}
+                    onChange={() => toggleTone(tone)}
+                    style={{ width: 16, height: 16 }}
+                  />
+                  <span>{tone}</span>
+                </label>
+              );
+            })}
+          </div>
+        )}
       </div>
+
     </div>
   );
 };

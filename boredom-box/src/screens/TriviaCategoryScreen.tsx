@@ -9,7 +9,7 @@ interface Props {
 
 export const TriviaCategoryScreen = ({ categories, onSelectCategory, onBack }: Props) => {
   return (
-    <div className="bb-screen">
+    <div className="bb-screen bb-screen--trivia">
       <div className="bb-topbar">
         <Button variant="ghost" onClick={onBack}>
           ← Back

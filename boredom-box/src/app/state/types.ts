@@ -3,6 +3,7 @@ export type Mode =
   | "trivia-setup"
   | "trivia-category"
   | "trivia-question"
+  | "welcome"
   | "conversation";
 
 export type Category = string;
@@ -52,6 +53,8 @@ export interface ConversationPrompt {
   id: string;
   tone: Tone;
   text: string;
+  level?: number;
+  bias?: ConversationBias;
 }
 
 export interface ConversationSession {
@@ -59,6 +62,7 @@ export interface ConversationSession {
   lastTone?: Tone;
   modeFilter?: Tone[];
   bias?: ConversationBias;
+  biasLevels: Record<ConversationBias, number>;
 }
 
 export interface AppState {

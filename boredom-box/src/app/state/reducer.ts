@@ -213,27 +213,30 @@ export const reducer = (state: AppState, action: AppAction): AppState => {
     }
 
     case "NEXT_PROMPT": {
-      const current = state.conversationSession.activePrompt;
-      const updatedSeen: SeenRecord = { ...state.seenPrompts };
-      if (current) {
-        updatedSeen[current.id] = true;
-      }
-      const bias = action.bias ?? state.conversationSession.bias;
+      const biasInput = action.bias ?? state.conversationSession.bias;
+      const bias = biasInput && biasInput !== "none" ? biasInput : undefined;
+      const biasLevels = { ...state.conversationSession.biasLevels };
+      const targetLevel = bias ? biasLevels[bias] ?? 1 : undefined;
       const next = pickConversationPrompt({
         modeFilter: state.conversationSession.modeFilter,
-        seenPrompts: updatedSeen,
+        seenPrompts: {},
         lastTone: state.conversationSession.lastTone,
         bias,
+        targetLevel,
       });
+      if (bias && next) {
+        biasLevels[bias] = Math.min((biasLevels[bias] ?? 1) + 1, 3);
+      }
       return {
         ...state,
-        seenPrompts: updatedSeen,
+        seenPrompts: state.seenPrompts, // preserved but not updated
         conversationSession: updateConversationSession(
           state.conversationSession,
           {
             activePrompt: next,
             lastTone: next?.tone ?? state.conversationSession.lastTone,
             bias,
+            biasLevels,
           },
         ),
       };

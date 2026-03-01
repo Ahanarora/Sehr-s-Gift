@@ -1,3 +1,5 @@
+import { useMemo, useState } from "react";
+import { thoughtsOfDay } from "../app/data/thoughts";
 interface Props {
   onSelectTrivia: () => void;
   onSelectConversation: () => void;
@@ -14,13 +16,27 @@ export const HomeScreen = ({
   const lifetimeSorted = [...players].sort(
     (a, b) => (lifetimeScores[b.id] ?? 0) - (lifetimeScores[a.id] ?? 0),
   );
+  const [flipped, setFlipped] = useState(false);
+
+  const spotlightImages = useMemo(
+    () => ["/design/shot1.png", "/design/shot2.png", "/design/shot3.png", "/design/shot4.png"],
+    [],
+  );
+  const spotlightSrc = useMemo(() => {
+    const dayIndex = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
+    const idx = dayIndex % spotlightImages.length;
+    return spotlightImages[idx];
+  }, [spotlightImages]);
+
+  const thoughtOfDay = useMemo(() => {
+    const dayIndex = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
+    const list = thoughtsOfDay as string[];
+    const raw = list[dayIndex % list.length] ?? "";
+    return raw.replace(/^Thought\\s*\\d+:\\s*/i, "");
+  }, []);
+
   return (
     <div className="bb-home">
-      <img
-        className="bb-home-hero-img"
-        src="/design/shot2.png"
-        alt="Sehr and Ahan's Underground Games Portal collage"
-      />
       <h1 className="bb-home-title">Sehr and Ahan&apos;s Underground Games Portal</h1>
       <div className="bb-home-hero">
         <div className="bb-home-circles">
@@ -32,11 +48,19 @@ export const HomeScreen = ({
           </button>
         </div>
       </div>
-      <div className="bb-home-gallery">
-        <img src="/design/shot1.png" alt="Gallery 1" />
-        <img src="/design/shot2.png" alt="Gallery 2" />
-        <img src="/design/shot3.png" alt="Gallery 3" />
-        <img src="/design/shot4.png" alt="Gallery 4" />
+      <div className="bb-home-spotlight">
+        <p className="bb-note">Your flowers for today</p>
+        <div
+          className={`bb-spotlight-card ${flipped ? "flipped" : ""}`}
+          onClick={() => setFlipped((v) => !v)}
+        >
+          <div className="bb-spotlight-face front">
+            <img src={spotlightSrc} alt="Daily spotlight" className="bb-spotlight-img" />
+          </div>
+          <div className="bb-spotlight-face back">
+            <p className="bb-spotlight-text">{thoughtOfDay}</p>
+          </div>
+        </div>
       </div>
       <div className="bb-scoreboard bb-home-scoreboard">
         <p className="bb-label">All-time Scoreboard</p>

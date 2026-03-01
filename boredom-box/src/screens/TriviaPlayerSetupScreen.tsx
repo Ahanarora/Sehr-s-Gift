@@ -10,6 +10,7 @@ interface Props {
   onContinue: () => void;
   onBack: () => void;
   onHome: () => void;
+  lifetimeScores: Record<string, number>;
 }
 
 export const TriviaPlayerSetupScreen = ({
@@ -20,9 +21,10 @@ export const TriviaPlayerSetupScreen = ({
   onContinue,
   onBack,
   onHome,
+  lifetimeScores,
 }: Props) => {
   return (
-    <div className="bb-screen">
+    <div className="bb-screen bb-screen--trivia">
       <div className="bb-topbar">
         <Button variant="ghost" onClick={onBack}>
           ← Back
@@ -38,6 +40,17 @@ export const TriviaPlayerSetupScreen = ({
         onRemove={onRemovePlayer}
         onRename={onRenamePlayer}
       />
+      <div className="bb-scoreboard bb-home-scoreboard" style={{ marginTop: 16 }}>
+        <p className="bb-label">All-time Scoreboard</p>
+        {[...players]
+          .sort((a, b) => (lifetimeScores[b.id] ?? 0) - (lifetimeScores[a.id] ?? 0))
+          .map((p) => (
+            <div key={p.id} className="bb-score-row">
+              <span>{p.name}</span>
+              <span className="bb-score">{lifetimeScores[p.id] ?? 0}</span>
+            </div>
+          ))}
+      </div>
       <div className="bb-actions">
         <Button onClick={onContinue}>Continue →</Button>
       </div>

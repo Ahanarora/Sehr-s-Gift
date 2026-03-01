@@ -1,7 +1,7 @@
 import type { Category, ConversationBias, Tone } from "./types";
 
 export type AppAction =
-  | { type: "SET_MODE"; mode: "home" | "trivia-setup" | "trivia-question" | "conversation" }
+  | { type: "SET_MODE"; mode: "welcome" | "home" | "trivia-setup" | "trivia-question" | "conversation" }
   | { type: "ADD_PLAYER"; name: string }
   | { type: "REMOVE_PLAYER"; id: string }
   | { type: "RENAME_PLAYER"; id: string; name: string }

@@ -99,7 +99,7 @@ export const TriviaQuestionScreen = ({
   };
 
   return (
-    <div className="bb-screen">
+    <div className="bb-screen bb-screen--trivia">
       <div className="bb-topbar">
         <div>
           <p className="bb-label">Chooser</p>
