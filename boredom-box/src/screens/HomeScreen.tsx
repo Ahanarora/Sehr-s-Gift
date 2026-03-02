@@ -37,6 +37,12 @@ export const HomeScreen = ({
 
   return (
     <div className="bb-home">
+      <div className="bb-orientation-hint" role="status" aria-live="polite">
+        <div className="bb-orientation-card">
+          <strong>Rotate to landscape</strong>
+          <p style={{ margin: "6px 0 0" }}>For the best view, turn your phone horizontally.</p>
+        </div>
+      </div>
       <h1 className="bb-home-title">Sehr and Ahan&apos;s Underground Games Portal</h1>
       <div className="bb-home-hero">
         <div className="bb-home-circles">

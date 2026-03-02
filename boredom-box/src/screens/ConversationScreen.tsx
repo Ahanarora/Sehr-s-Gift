@@ -27,14 +27,6 @@ export const ConversationScreen = ({
     onChangeTones(selected.length ? selected : undefined);
   };
 
-  const toggleTone = (tone: Tone) => {
-    const current = new Set(activeTones ?? []);
-    if (current.has(tone)) current.delete(tone);
-    else current.add(tone);
-    const updated = Array.from(current);
-    onChangeTones(updated.length ? updated : undefined);
-  };
-
   return (
     <div className="bb-screen bb-screen--conversation">
       <div className="bb-topbar">
@@ -99,25 +91,6 @@ export const ConversationScreen = ({
               </option>
             ))}
           </select>
-        )}
-
-        {showFilter && (
-          <div style={{ marginTop: 12, display: "grid", gap: 6 }}>
-            {allTones.map((tone) => {
-              const checked = activeTones?.includes(tone) ?? false;
-              return (
-                <label key={`${tone}-tick`} style={{ display: "flex", gap: 8, alignItems: "center" }}>
-                  <input
-                    type="checkbox"
-                    checked={checked}
-                    onChange={() => toggleTone(tone)}
-                    style={{ width: 16, height: 16 }}
-                  />
-                  <span>{tone}</span>
-                </label>
-              );
-            })}
-          </div>
         )}
       </div>
 

@@ -793,3 +793,31 @@ body {
   50% { transform: rotateY(180deg) scale(1.02); }
   100% { transform: rotateY(360deg) scale(1); }
 }
+
+.bb-orientation-hint {
+  display: none;
+}
+
+.bb-orientation-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 18px;
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.18);
+  max-width: 320px;
+  text-align: center;
+  border: 2px solid #ffd6e8;
+}
+
+@media (orientation: portrait) and (max-width: 900px) {
+  .bb-orientation-hint {
+    display: flex;
+    position: fixed;
+    inset: 0;
+    align-items: center;
+    justify-content: center;
+    background: rgba(15, 23, 42, 0.32);
+    backdrop-filter: blur(4px);
+    z-index: 30;
+    padding: 24px;
+  }
+}
