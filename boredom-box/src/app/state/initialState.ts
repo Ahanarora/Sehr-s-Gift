@@ -22,8 +22,6 @@ export const createInitialTriviaSession = (): TriviaSession => ({
 
 export const createInitialConversationSession = (): ConversationSession => ({
   activePrompt: undefined,
-  lastTone: undefined,
-  modeFilter: undefined,
   bias: "none",
   biasLevels: {
     lighter: 1,

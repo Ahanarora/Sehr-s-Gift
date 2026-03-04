@@ -109,8 +109,6 @@ function App() {
             onNext={(bias) => dispatch({ type: "NEXT_PROMPT", bias })}
             onReset={handleResetConversation}
             onHome={goHome}
-            activeTones={state.conversationSession.modeFilter}
-            onChangeTones={(tones) => dispatch({ type: "SET_MODE_FILTER", tones })}
           />
         );
 

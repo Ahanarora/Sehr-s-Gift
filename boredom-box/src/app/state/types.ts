@@ -59,8 +59,6 @@ export interface ConversationPrompt {
 
 export interface ConversationSession {
   activePrompt?: ConversationPrompt;
-  lastTone?: Tone;
-  modeFilter?: Tone[];
   bias?: ConversationBias;
   biasLevels: Record<ConversationBias, number>;
 }

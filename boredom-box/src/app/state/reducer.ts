@@ -218,9 +218,7 @@ export const reducer = (state: AppState, action: AppAction): AppState => {
       const biasLevels = { ...state.conversationSession.biasLevels };
       const targetLevel = bias ? biasLevels[bias] ?? 1 : undefined;
       const next = pickConversationPrompt({
-        modeFilter: state.conversationSession.modeFilter,
         seenPrompts: {},
-        lastTone: state.conversationSession.lastTone,
         bias,
         targetLevel,
       });
@@ -234,21 +232,8 @@ export const reducer = (state: AppState, action: AppAction): AppState => {
           state.conversationSession,
           {
             activePrompt: next,
-            lastTone: next?.tone ?? state.conversationSession.lastTone,
             bias,
             biasLevels,
-          },
-        ),
-      };
-    }
-
-    case "SET_MODE_FILTER": {
-      return {
-        ...state,
-        conversationSession: updateConversationSession(
-          state.conversationSession,
-          {
-            modeFilter: action.tones,
           },
         ),
       };

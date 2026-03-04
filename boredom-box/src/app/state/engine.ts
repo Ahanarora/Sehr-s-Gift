@@ -1,4 +1,4 @@
-import { conversationPrompts, tones } from "../data/conversation";
+import { conversationPrompts } from "../data/conversation";
 import { triviaCategories, triviaQuestions } from "../data/trivia";
 import type {
   Category,
@@ -6,7 +6,6 @@ import type {
   ConversationPrompt,
   Question,
   SeenRecord,
-  Tone,
 } from "./types";
 
 const randomPick = <T>(items: T[]): T => {
@@ -47,23 +46,8 @@ export const pickQuestion = (
   return shuffled[0];
 };
 
-const biasToTones = (bias?: ConversationBias): Tone[] | undefined => {
-  switch (bias) {
-    case "lighter":
-      return ["light", "fun"];
-    case "deeper":
-      return ["deep", "values", "life", "future", "relationship"];
-    case "spicier":
-      return ["spicy"];
-    default:
-      return undefined;
-  }
-};
-
 interface PromptPickerInput {
-  modeFilter?: Tone[];
   seenPrompts?: SeenRecord;
-  lastTone?: Tone;
   bias?: ConversationBias;
   targetLevel?: number;
 }
@@ -71,9 +55,8 @@ interface PromptPickerInput {
 export const pickConversationPrompt = (
   input: PromptPickerInput,
 ): ConversationPrompt | undefined => {
-  const { modeFilter, seenPrompts = {}, lastTone, bias, targetLevel } = input;
+  const { seenPrompts = {}, bias, targetLevel } = input;
   const basePool = conversationPrompts.filter((p) => {
-    if (modeFilter && !modeFilter.includes(p.tone)) return false;
     if (bias && p.bias !== bias) return false;
     return !seenPrompts[p.id];
   });
@@ -94,35 +77,11 @@ export const pickConversationPrompt = (
 
   if (pool.length === 0) return undefined;
 
-  const counts = pool.reduce<Record<Tone, number>>((acc, prompt) => {
-    acc[prompt.tone] = (acc[prompt.tone] ?? 0) + 1;
-    return acc;
-  }, {} as Record<Tone, number>);
-
-  const preferredTones = biasToTones(bias);
-
-  let candidateTones: Tone[] = preferredTones
-    ? preferredTones.filter((tone) => counts[tone])
-    : (Object.keys(counts) as Tone[]);
-
-  if (candidateTones.length === 0) {
-    candidateTones = Object.keys(counts) as Tone[];
-  }
-
-  const withoutLast = candidateTones.filter((t) => t !== lastTone);
-  if (withoutLast.length > 0) {
-    candidateTones = withoutLast;
-  }
-
-  const maxCount = Math.max(...candidateTones.map((t) => counts[t] ?? 0));
-  const topTones = candidateTones.filter((t) => counts[t] === maxCount);
-  const chosenTone = randomPick(topTones);
-  const tonePool = pool.filter((p) => p.tone === chosenTone);
-  return randomPick(tonePool);
+  return randomPick(pool);
 };
 
-export const remainingPromptsCount = (modeFilter?: Tone[]): number => {
-  return conversationPrompts.filter((p) => !modeFilter || modeFilter.includes(p.tone)).length;
+export const remainingPromptsCount = (): number => {
+  return conversationPrompts.length;
 };
 
 export const remainingQuestionsCount = (
@@ -143,4 +102,4 @@ export const pickCategoryOptions = (seenQuestions: SeenRecord): Category[] => {
   return sampleWithoutReplacement(pool, Math.min(2, pool.length));
 };
 
-export { triviaQuestions, conversationPrompts, tones };
+export { triviaQuestions, conversationPrompts };

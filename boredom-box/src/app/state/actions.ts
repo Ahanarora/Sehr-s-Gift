@@ -1,4 +1,4 @@
-import type { Category, ConversationBias, Tone } from "./types";
+import type { Category, ConversationBias } from "./types";
 
 export type AppAction =
   | { type: "SET_MODE"; mode: "welcome" | "home" | "trivia-setup" | "trivia-question" | "conversation" }
@@ -14,5 +14,4 @@ export type AppAction =
   | { type: "CHANGE_QUESTION" }
   | { type: "NEXT_PROMPT"; bias?: ConversationBias }
   | { type: "RESET_CONVERSATION_SESSION" }
-  | { type: "SET_MODE_FILTER"; tones?: Tone[] }
   | { type: "SET_BIAS"; bias?: ConversationBias };
