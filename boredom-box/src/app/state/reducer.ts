@@ -213,9 +213,16 @@ export const reducer = (state: AppState, action: AppAction): AppState => {
     }
 
     case "NEXT_PROMPT": {
-      const biasInput = action.bias ?? state.conversationSession.bias;
+      const previousBias = state.conversationSession.bias;
+      const biasInput = action.bias ?? previousBias;
       const bias = biasInput && biasInput !== "none" ? biasInput : undefined;
       const biasLevels = { ...state.conversationSession.biasLevels };
+
+      // If user switches to a different bias, restart its level progression from 1
+      if (bias && bias !== previousBias) {
+        biasLevels[bias] = 1;
+      }
+
       const targetLevel = bias ? biasLevels[bias] ?? 1 : undefined;
       const next = pickConversationPrompt({
         seenPrompts: {},

@@ -1,34 +1,40 @@
-import conversationRaw from "../../../questions/conversation_randomizer_300_utf8.json" assert { type: "json" };
+import promptsRaw from "../../../questions/boredom_box_prompts_600.json" assert { type: "json" };
 import type { ConversationBias, ConversationPrompt, Tone } from "../state/types";
 
 type RawPrompt = {
-  mode?: string;
-  tone: string;
+  id?: string;
+  category: string;
   level?: number;
-  text: string;
+  prompt: string;
 };
 
-const mapGroup = (
-  bias: ConversationBias,
-  prompts: RawPrompt[],
-  offset: number,
-): ConversationPrompt[] =>
-  prompts.map((p, idx) => ({
-    id: `${bias}-${p.tone}-${p.level ?? 1}-${offset + idx}`,
-    tone: p.tone as Tone,
-    text: p.text,
-    level: p.level ?? 1,
-    bias,
-  }));
+const categoryToBias: Record<string, ConversationBias> = {
+  light: "lighter",
+  deep: "deeper",
+  spicy: "spicier",
+};
 
-const lighter = mapGroup("lighter", conversationRaw.lighter ?? [], 0);
-const deeper = mapGroup("deeper", conversationRaw.deeper ?? [], lighter.length);
-const spicier = mapGroup(
-  "spicier",
-  conversationRaw.spicier ?? [],
-  lighter.length + deeper.length,
-);
+const categoryToTone: Record<string, Tone> = {
+  light: "light",
+  deep: "deep",
+  spicy: "spicy",
+};
 
-export const conversationPrompts: ConversationPrompt[] = [...lighter, ...deeper, ...spicier];
+const mapped = (promptsRaw as RawPrompt[])
+  .map((p, idx) => {
+    const bias = categoryToBias[p.category];
+    const tone = categoryToTone[p.category];
+    if (!bias || !tone) return undefined;
+    return {
+      id: p.id ?? `${bias}-${tone}-${p.level ?? 1}-${idx}`,
+      tone,
+      text: p.prompt,
+      level: p.level ?? 1,
+      bias,
+    } satisfies ConversationPrompt;
+  })
+  .filter(Boolean) as ConversationPrompt[];
 
-export const tones: Tone[] = ["light", "fun", "values", "life", "spicy", "deep", "future", "relationship"];
+export const conversationPrompts: ConversationPrompt[] = mapped;
+
+export const tones: Tone[] = ["light", "deep", "spicy"];

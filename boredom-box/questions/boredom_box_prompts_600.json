@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "light-1-001",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a silly habit?"
+  },
+  {
+    "id": "light-1-002",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your morning routine?"
+  },
+  {
+    "id": "light-1-003",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a comfort food?"
+  },
+  {
+    "id": "light-1-004",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about music you love?"
+  },
+  {
+    "id": "light-1-005",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a happy accident?"
+  },
+  {
+    "id": "light-1-006",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a silly habit?"
+  },
+  {
+    "id": "light-1-007",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a small win?"
+  },
+  {
+    "id": "light-1-008",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite place?"
+  },
+  {
+    "id": "light-1-009",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your morning routine?"
+  },
+  {
+    "id": "light-1-010",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite snack?"
+  },
+  {
+    "id": "light-1-011",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of music you love?"
+  },
+  {
+    "id": "light-1-012",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite place?"
+  },
+  {
+    "id": "light-1-013",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a small win?"
+  },
+  {
+    "id": "light-1-014",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a happy accident?"
+  },
+  {
+    "id": "light-1-015",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a happy accident?"
+  },
+  {
+    "id": "light-1-016",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a random hobby?"
+  },
+  {
+    "id": "light-1-017",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a simple pleasure?"
+  },
+  {
+    "id": "light-1-018",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a comfort food?"
+  },
+  {
+    "id": "light-1-019",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of weekend plans?"
+  },
+  {
+    "id": "light-1-020",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a random hobby?"
+  },
+  {
+    "id": "light-1-021",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a comfort food?"
+  },
+  {
+    "id": "light-1-022",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about music you love?"
+  },
+  {
+    "id": "light-1-023",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite snack?"
+  },
+  {
+    "id": "light-1-024",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a random hobby?"
+  },
+  {
+    "id": "light-1-025",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your childhood memory?"
+  },
+  {
+    "id": "light-1-026",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite place?"
+  },
+  {
+    "id": "light-1-027",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your morning routine?"
+  },
+  {
+    "id": "light-1-028",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a simple pleasure?"
+  },
+  {
+    "id": "light-1-029",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite snack?"
+  },
+  {
+    "id": "light-1-030",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your favorite snack?"
+  },
+  {
+    "id": "light-1-031",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a comfort food?"
+  },
+  {
+    "id": "light-1-032",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite place?"
+  },
+  {
+    "id": "light-1-033",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite place?"
+  },
+  {
+    "id": "light-1-034",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a happy accident?"
+  },
+  {
+    "id": "light-1-035",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your morning routine?"
+  },
+  {
+    "id": "light-1-036",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about music you love?"
+  },
+  {
+    "id": "light-1-037",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite snack?"
+  },
+  {
+    "id": "light-1-038",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite snack?"
+  },
+  {
+    "id": "light-1-039",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a comfort food?"
+  },
+  {
+    "id": "light-1-040",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a silly habit?"
+  },
+  {
+    "id": "light-1-041",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about weekend plans?"
+  },
+  {
+    "id": "light-1-042",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your childhood memory?"
+  },
+  {
+    "id": "light-1-043",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a silly habit?"
+  },
+  {
+    "id": "light-1-044",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a happy accident?"
+  },
+  {
+    "id": "light-1-045",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a silly habit?"
+  },
+  {
+    "id": "light-1-046",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your favorite place?"
+  },
+  {
+    "id": "light-1-047",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of weekend plans?"
+  },
+  {
+    "id": "light-1-048",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a happy accident?"
+  },
+  {
+    "id": "light-1-049",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about weekend plans?"
+  },
+  {
+    "id": "light-1-050",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a random hobby?"
+  },
+  {
+    "id": "light-1-051",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a silly habit?"
+  },
+  {
+    "id": "light-1-052",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a small win?"
+  },
+  {
+    "id": "light-1-053",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a silly habit?"
+  },
+  {
+    "id": "light-1-054",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your morning routine?"
+  },
+  {
+    "id": "light-1-055",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your morning routine?"
+  },
+  {
+    "id": "light-1-056",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a random hobby?"
+  },
+  {
+    "id": "light-1-057",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your favorite snack?"
+  },
+  {
+    "id": "light-1-058",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of your favorite place?"
+  },
+  {
+    "id": "light-1-059",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about your childhood memory?"
+  },
+  {
+    "id": "light-1-060",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about a silly habit?"
+  },
+  {
+    "id": "light-1-061",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a random hobby?"
+  },
+  {
+    "id": "light-1-062",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a simple pleasure?"
+  },
+  {
+    "id": "light-1-063",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s something fun about a comfort food?"
+  },
+  {
+    "id": "light-1-064",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of music you love?"
+  },
+  {
+    "id": "light-1-065",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a small win?"
+  },
+  {
+    "id": "light-1-066",
+    "category": "light",
+    "level": 1,
+    "prompt": "What\u2019s your favorite part of a comfort food?"
+  },
+  {
+    "id": "light-1-067",
+    "category": "light",
+    "level": 1,
+    "prompt": "What do you enjoy most about your favorite place?"
+  },
+  {
+    "id": "light-2-068",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite place start becoming important to you?"
+  },
+  {
+    "id": "light-2-069",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your childhood memory matter to you?"
+  },
+  {
+    "id": "light-2-070",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does weekend plans say about your personality?"
+  },
+  {
+    "id": "light-2-071",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a simple pleasure matter to you?"
+  },
+  {
+    "id": "light-2-072",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your morning routine matter to you?"
+  },
+  {
+    "id": "light-2-073",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does weekend plans say about your personality?"
+  },
+  {
+    "id": "light-2-074",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does weekend plans say about your personality?"
+  },
+  {
+    "id": "light-2-075",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a random hobby say about your personality?"
+  },
+  {
+    "id": "light-2-076",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite snack start becoming important to you?"
+  },
+  {
+    "id": "light-2-077",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a random hobby say about your personality?"
+  },
+  {
+    "id": "light-2-078",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a simple pleasure say about your personality?"
+  },
+  {
+    "id": "light-2-079",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a comfort food say about your personality?"
+  },
+  {
+    "id": "light-2-080",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does your morning routine say about your personality?"
+  },
+  {
+    "id": "light-2-081",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a happy accident matter to you?"
+  },
+  {
+    "id": "light-2-082",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a silly habit say about your personality?"
+  },
+  {
+    "id": "light-2-083",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a comfort food say about your personality?"
+  },
+  {
+    "id": "light-2-084",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your childhood memory matter to you?"
+  },
+  {
+    "id": "light-2-085",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did a comfort food start becoming important to you?"
+  },
+  {
+    "id": "light-2-086",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did weekend plans start becoming important to you?"
+  },
+  {
+    "id": "light-2-087",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does your morning routine say about your personality?"
+  },
+  {
+    "id": "light-2-088",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did a happy accident start becoming important to you?"
+  },
+  {
+    "id": "light-2-089",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-090",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-091",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did a silly habit start becoming important to you?"
+  },
+  {
+    "id": "light-2-092",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a silly habit say about your personality?"
+  },
+  {
+    "id": "light-2-093",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your favorite place matter to you?"
+  },
+  {
+    "id": "light-2-094",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did weekend plans start becoming important to you?"
+  },
+  {
+    "id": "light-2-095",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does weekend plans say about your personality?"
+  },
+  {
+    "id": "light-2-096",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-097",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite place start becoming important to you?"
+  },
+  {
+    "id": "light-2-098",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a simple pleasure matter to you?"
+  },
+  {
+    "id": "light-2-099",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite snack start becoming important to you?"
+  },
+  {
+    "id": "light-2-100",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a comfort food matter to you?"
+  },
+  {
+    "id": "light-2-101",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your morning routine matter to you?"
+  },
+  {
+    "id": "light-2-102",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your favorite place matter to you?"
+  },
+  {
+    "id": "light-2-103",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does your favorite snack say about your personality?"
+  },
+  {
+    "id": "light-2-104",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a simple pleasure matter to you?"
+  },
+  {
+    "id": "light-2-105",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-106",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does weekend plans say about your personality?"
+  },
+  {
+    "id": "light-2-107",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a simple pleasure say about your personality?"
+  },
+  {
+    "id": "light-2-108",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did weekend plans start becoming important to you?"
+  },
+  {
+    "id": "light-2-109",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a small win say about your personality?"
+  },
+  {
+    "id": "light-2-110",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a random hobby matter to you?"
+  },
+  {
+    "id": "light-2-111",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a small win say about your personality?"
+  },
+  {
+    "id": "light-2-112",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a happy accident matter to you?"
+  },
+  {
+    "id": "light-2-113",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did a happy accident start becoming important to you?"
+  },
+  {
+    "id": "light-2-114",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a random hobby say about your personality?"
+  },
+  {
+    "id": "light-2-115",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did a silly habit start becoming important to you?"
+  },
+  {
+    "id": "light-2-116",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a simple pleasure say about your personality?"
+  },
+  {
+    "id": "light-2-117",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a simple pleasure matter to you?"
+  },
+  {
+    "id": "light-2-118",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does music you love matter to you?"
+  },
+  {
+    "id": "light-2-119",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite snack start becoming important to you?"
+  },
+  {
+    "id": "light-2-120",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does your morning routine say about your personality?"
+  },
+  {
+    "id": "light-2-121",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-122",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your favorite place matter to you?"
+  },
+  {
+    "id": "light-2-123",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your morning routine matter to you?"
+  },
+  {
+    "id": "light-2-124",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a happy accident say about your personality?"
+  },
+  {
+    "id": "light-2-125",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your morning routine matter to you?"
+  },
+  {
+    "id": "light-2-126",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your favorite snack matter to you?"
+  },
+  {
+    "id": "light-2-127",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does your childhood memory matter to you?"
+  },
+  {
+    "id": "light-2-128",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-129",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a comfort food say about your personality?"
+  },
+  {
+    "id": "light-2-130",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a simple pleasure matter to you?"
+  },
+  {
+    "id": "light-2-131",
+    "category": "light",
+    "level": 2,
+    "prompt": "Why does a small win matter to you?"
+  },
+  {
+    "id": "light-2-132",
+    "category": "light",
+    "level": 2,
+    "prompt": "What does a happy accident say about your personality?"
+  },
+  {
+    "id": "light-2-133",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did your favorite place start becoming important to you?"
+  },
+  {
+    "id": "light-2-134",
+    "category": "light",
+    "level": 2,
+    "prompt": "When did music you love start becoming important to you?"
+  },
+  {
+    "id": "light-3-135",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a random hobby shaped who you are?"
+  },
+  {
+    "id": "light-3-136",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite snack shaped who you are?"
+  },
+  {
+    "id": "light-3-137",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a silly habit, what would you miss most?"
+  },
+  {
+    "id": "light-3-138",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your childhood memory, what would you miss most?"
+  },
+  {
+    "id": "light-3-139",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a random hobby, what would you miss most?"
+  },
+  {
+    "id": "light-3-140",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a happy accident shaped who you are?"
+  },
+  {
+    "id": "light-3-141",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a silly habit reflect your deeper values?"
+  },
+  {
+    "id": "light-3-142",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a silly habit shaped who you are?"
+  },
+  {
+    "id": "light-3-143",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your morning routine, what would you miss most?"
+  },
+  {
+    "id": "light-3-144",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a happy accident, what would you miss most?"
+  },
+  {
+    "id": "light-3-145",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite snack shaped who you are?"
+  },
+  {
+    "id": "light-3-146",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has music you love shaped who you are?"
+  },
+  {
+    "id": "light-3-147",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a small win, what would you miss most?"
+  },
+  {
+    "id": "light-3-148",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost weekend plans, what would you miss most?"
+  },
+  {
+    "id": "light-3-149",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost weekend plans, what would you miss most?"
+  },
+  {
+    "id": "light-3-150",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a simple pleasure shaped who you are?"
+  },
+  {
+    "id": "light-3-151",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your favorite snack, what would you miss most?"
+  },
+  {
+    "id": "light-3-152",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a small win shaped who you are?"
+  },
+  {
+    "id": "light-3-153",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your morning routine reflect your deeper values?"
+  },
+  {
+    "id": "light-3-154",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a small win shaped who you are?"
+  },
+  {
+    "id": "light-3-155",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite snack shaped who you are?"
+  },
+  {
+    "id": "light-3-156",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost weekend plans, what would you miss most?"
+  },
+  {
+    "id": "light-3-157",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a simple pleasure, what would you miss most?"
+  },
+  {
+    "id": "light-3-158",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost music you love, what would you miss most?"
+  },
+  {
+    "id": "light-3-159",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your morning routine shaped who you are?"
+  },
+  {
+    "id": "light-3-160",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a random hobby shaped who you are?"
+  },
+  {
+    "id": "light-3-161",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a random hobby, what would you miss most?"
+  },
+  {
+    "id": "light-3-162",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a simple pleasure, what would you miss most?"
+  },
+  {
+    "id": "light-3-163",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a random hobby reflect your deeper values?"
+  },
+  {
+    "id": "light-3-164",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a happy accident reflect your deeper values?"
+  },
+  {
+    "id": "light-3-165",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a silly habit reflect your deeper values?"
+  },
+  {
+    "id": "light-3-166",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a simple pleasure shaped who you are?"
+  },
+  {
+    "id": "light-3-167",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost music you love, what would you miss most?"
+  },
+  {
+    "id": "light-3-168",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has music you love shaped who you are?"
+  },
+  {
+    "id": "light-3-169",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your favorite place reflect your deeper values?"
+  },
+  {
+    "id": "light-3-170",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a small win shaped who you are?"
+  },
+  {
+    "id": "light-3-171",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a happy accident, what would you miss most?"
+  },
+  {
+    "id": "light-3-172",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your morning routine shaped who you are?"
+  },
+  {
+    "id": "light-3-173",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your favorite place, what would you miss most?"
+  },
+  {
+    "id": "light-3-174",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a small win reflect your deeper values?"
+  },
+  {
+    "id": "light-3-175",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has weekend plans shaped who you are?"
+  },
+  {
+    "id": "light-3-176",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a small win shaped who you are?"
+  },
+  {
+    "id": "light-3-177",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has weekend plans shaped who you are?"
+  },
+  {
+    "id": "light-3-178",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite place shaped who you are?"
+  },
+  {
+    "id": "light-3-179",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a silly habit shaped who you are?"
+  },
+  {
+    "id": "light-3-180",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a random hobby shaped who you are?"
+  },
+  {
+    "id": "light-3-181",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite place shaped who you are?"
+  },
+  {
+    "id": "light-3-182",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your favorite place reflect your deeper values?"
+  },
+  {
+    "id": "light-3-183",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your morning routine reflect your deeper values?"
+  },
+  {
+    "id": "light-3-184",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your favorite snack, what would you miss most?"
+  },
+  {
+    "id": "light-3-185",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a silly habit reflect your deeper values?"
+  },
+  {
+    "id": "light-3-186",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your favorite place reflect your deeper values?"
+  },
+  {
+    "id": "light-3-187",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your childhood memory, what would you miss most?"
+  },
+  {
+    "id": "light-3-188",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does music you love reflect your deeper values?"
+  },
+  {
+    "id": "light-3-189",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a happy accident, what would you miss most?"
+  },
+  {
+    "id": "light-3-190",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost music you love, what would you miss most?"
+  },
+  {
+    "id": "light-3-191",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a random hobby shaped who you are?"
+  },
+  {
+    "id": "light-3-192",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does a silly habit reflect your deeper values?"
+  },
+  {
+    "id": "light-3-193",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a comfort food, what would you miss most?"
+  },
+  {
+    "id": "light-3-194",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your childhood memory shaped who you are?"
+  },
+  {
+    "id": "light-3-195",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost your morning routine, what would you miss most?"
+  },
+  {
+    "id": "light-3-196",
+    "category": "light",
+    "level": 3,
+    "prompt": "How does your favorite place reflect your deeper values?"
+  },
+  {
+    "id": "light-3-197",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has your favorite snack shaped who you are?"
+  },
+  {
+    "id": "light-3-198",
+    "category": "light",
+    "level": 3,
+    "prompt": "How has a small win shaped who you are?"
+  },
+  {
+    "id": "light-3-199",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost a small win, what would you miss most?"
+  },
+  {
+    "id": "light-3-200",
+    "category": "light",
+    "level": 3,
+    "prompt": "If you lost weekend plans, what would you miss most?"
+  },
+  {
+    "id": "deep-1-001",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a past mistake?"
+  },
+  {
+    "id": "deep-1-002",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a core belief influence your daily life?"
+  },
+  {
+    "id": "deep-1-003",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a turning point in your life influence your daily life?"
+  },
+  {
+    "id": "deep-1-004",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a hidden insecurity reveal about you?"
+  },
+  {
+    "id": "deep-1-005",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a regret reveal about you?"
+  },
+  {
+    "id": "deep-1-006",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your sense of purpose reveal about you?"
+  },
+  {
+    "id": "deep-1-007",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your biggest fear reveal about you?"
+  },
+  {
+    "id": "deep-1-008",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a hidden insecurity influence your daily life?"
+  },
+  {
+    "id": "deep-1-009",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your sense of purpose?"
+  },
+  {
+    "id": "deep-1-010",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a turning point in your life influence your daily life?"
+  },
+  {
+    "id": "deep-1-011",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a past mistake?"
+  },
+  {
+    "id": "deep-1-012",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a difficult decision reveal about you?"
+  },
+  {
+    "id": "deep-1-013",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a turning point in your life influence your daily life?"
+  },
+  {
+    "id": "deep-1-014",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a regret reveal about you?"
+  },
+  {
+    "id": "deep-1-015",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your childhood reveal about you?"
+  },
+  {
+    "id": "deep-1-016",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a core belief?"
+  },
+  {
+    "id": "deep-1-017",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your sense of purpose reveal about you?"
+  },
+  {
+    "id": "deep-1-018",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a regret reveal about you?"
+  },
+  {
+    "id": "deep-1-019",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your identity influence your daily life?"
+  },
+  {
+    "id": "deep-1-020",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your biggest fear?"
+  },
+  {
+    "id": "deep-1-021",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your sense of purpose influence your daily life?"
+  },
+  {
+    "id": "deep-1-022",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a regret?"
+  },
+  {
+    "id": "deep-1-023",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your biggest fear influence your daily life?"
+  },
+  {
+    "id": "deep-1-024",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a turning point in your life reveal about you?"
+  },
+  {
+    "id": "deep-1-025",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a regret?"
+  },
+  {
+    "id": "deep-1-026",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a difficult decision influence your daily life?"
+  },
+  {
+    "id": "deep-1-027",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a hidden insecurity reveal about you?"
+  },
+  {
+    "id": "deep-1-028",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a relationship that shaped you reveal about you?"
+  },
+  {
+    "id": "deep-1-029",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your biggest fear?"
+  },
+  {
+    "id": "deep-1-030",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a past mistake reveal about you?"
+  },
+  {
+    "id": "deep-1-031",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a turning point in your life reveal about you?"
+  },
+  {
+    "id": "deep-1-032",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your biggest fear influence your daily life?"
+  },
+  {
+    "id": "deep-1-033",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a moment of growth reveal about you?"
+  },
+  {
+    "id": "deep-1-034",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a turning point in your life influence your daily life?"
+  },
+  {
+    "id": "deep-1-035",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a turning point in your life?"
+  },
+  {
+    "id": "deep-1-036",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a regret influence your daily life?"
+  },
+  {
+    "id": "deep-1-037",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your biggest fear influence your daily life?"
+  },
+  {
+    "id": "deep-1-038",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your childhood reveal about you?"
+  },
+  {
+    "id": "deep-1-039",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your childhood reveal about you?"
+  },
+  {
+    "id": "deep-1-040",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a past mistake influence your daily life?"
+  },
+  {
+    "id": "deep-1-041",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a hidden insecurity influence your daily life?"
+  },
+  {
+    "id": "deep-1-042",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a moment of growth reveal about you?"
+  },
+  {
+    "id": "deep-1-043",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a turning point in your life?"
+  },
+  {
+    "id": "deep-1-044",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a turning point in your life?"
+  },
+  {
+    "id": "deep-1-045",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a relationship that shaped you?"
+  },
+  {
+    "id": "deep-1-046",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a turning point in your life reveal about you?"
+  },
+  {
+    "id": "deep-1-047",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a core belief influence your daily life?"
+  },
+  {
+    "id": "deep-1-048",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your sense of purpose reveal about you?"
+  },
+  {
+    "id": "deep-1-049",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your childhood influence your daily life?"
+  },
+  {
+    "id": "deep-1-050",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a turning point in your life reveal about you?"
+  },
+  {
+    "id": "deep-1-051",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a past mistake influence your daily life?"
+  },
+  {
+    "id": "deep-1-052",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your biggest fear influence your daily life?"
+  },
+  {
+    "id": "deep-1-053",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your childhood?"
+  },
+  {
+    "id": "deep-1-054",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does your identity influence your daily life?"
+  },
+  {
+    "id": "deep-1-055",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a regret?"
+  },
+  {
+    "id": "deep-1-056",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your childhood?"
+  },
+  {
+    "id": "deep-1-057",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your sense of purpose?"
+  },
+  {
+    "id": "deep-1-058",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a relationship that shaped you influence your daily life?"
+  },
+  {
+    "id": "deep-1-059",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a regret?"
+  },
+  {
+    "id": "deep-1-060",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a regret influence your daily life?"
+  },
+  {
+    "id": "deep-1-061",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does your sense of purpose reveal about you?"
+  },
+  {
+    "id": "deep-1-062",
+    "category": "deep",
+    "level": 1,
+    "prompt": "What does a relationship that shaped you reveal about you?"
+  },
+  {
+    "id": "deep-1-063",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a hidden insecurity influence your daily life?"
+  },
+  {
+    "id": "deep-1-064",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your biggest fear?"
+  },
+  {
+    "id": "deep-1-065",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice a regret?"
+  },
+  {
+    "id": "deep-1-066",
+    "category": "deep",
+    "level": 1,
+    "prompt": "How does a moment of growth influence your daily life?"
+  },
+  {
+    "id": "deep-1-067",
+    "category": "deep",
+    "level": 1,
+    "prompt": "When did you first notice your biggest fear?"
+  },
+  {
+    "id": "deep-2-068",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a moment of growth?"
+  },
+  {
+    "id": "deep-2-069",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a core belief?"
+  },
+  {
+    "id": "deep-2-070",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a core belief?"
+  },
+  {
+    "id": "deep-2-071",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a moment of growth?"
+  },
+  {
+    "id": "deep-2-072",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a past mistake?"
+  },
+  {
+    "id": "deep-2-073",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a moment of growth changed over time?"
+  },
+  {
+    "id": "deep-2-074",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a regret changed over time?"
+  },
+  {
+    "id": "deep-2-075",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a difficult decision?"
+  },
+  {
+    "id": "deep-2-076",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with your biggest fear?"
+  },
+  {
+    "id": "deep-2-077",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a hidden insecurity?"
+  },
+  {
+    "id": "deep-2-078",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a difficult decision?"
+  },
+  {
+    "id": "deep-2-079",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a difficult decision?"
+  },
+  {
+    "id": "deep-2-080",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your childhood?"
+  },
+  {
+    "id": "deep-2-081",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a relationship that shaped you changed over time?"
+  },
+  {
+    "id": "deep-2-082",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your sense of purpose?"
+  },
+  {
+    "id": "deep-2-083",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a moment of growth?"
+  },
+  {
+    "id": "deep-2-084",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your sense of purpose changed over time?"
+  },
+  {
+    "id": "deep-2-085",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a difficult decision?"
+  },
+  {
+    "id": "deep-2-086",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a hidden insecurity?"
+  },
+  {
+    "id": "deep-2-087",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your sense of purpose?"
+  },
+  {
+    "id": "deep-2-088",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a core belief?"
+  },
+  {
+    "id": "deep-2-089",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a difficult decision?"
+  },
+  {
+    "id": "deep-2-090",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a hidden insecurity changed over time?"
+  },
+  {
+    "id": "deep-2-091",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your childhood?"
+  },
+  {
+    "id": "deep-2-092",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your sense of purpose?"
+  },
+  {
+    "id": "deep-2-093",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with your sense of purpose?"
+  },
+  {
+    "id": "deep-2-094",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a turning point in your life?"
+  },
+  {
+    "id": "deep-2-095",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a moment of growth?"
+  },
+  {
+    "id": "deep-2-096",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a relationship that shaped you?"
+  },
+  {
+    "id": "deep-2-097",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your biggest fear?"
+  },
+  {
+    "id": "deep-2-098",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a regret changed over time?"
+  },
+  {
+    "id": "deep-2-099",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a relationship that shaped you?"
+  },
+  {
+    "id": "deep-2-100",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a moment of growth?"
+  },
+  {
+    "id": "deep-2-101",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a core belief?"
+  },
+  {
+    "id": "deep-2-102",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your identity?"
+  },
+  {
+    "id": "deep-2-103",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your sense of purpose changed over time?"
+  },
+  {
+    "id": "deep-2-104",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a hidden insecurity?"
+  },
+  {
+    "id": "deep-2-105",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a difficult decision changed over time?"
+  },
+  {
+    "id": "deep-2-106",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your sense of purpose changed over time?"
+  },
+  {
+    "id": "deep-2-107",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a regret?"
+  },
+  {
+    "id": "deep-2-108",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with your sense of purpose?"
+  },
+  {
+    "id": "deep-2-109",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a moment of growth?"
+  },
+  {
+    "id": "deep-2-110",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a past mistake changed over time?"
+  },
+  {
+    "id": "deep-2-111",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from your sense of purpose?"
+  },
+  {
+    "id": "deep-2-112",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your childhood changed over time?"
+  },
+  {
+    "id": "deep-2-113",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a turning point in your life changed over time?"
+  },
+  {
+    "id": "deep-2-114",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your biggest fear changed over time?"
+  },
+  {
+    "id": "deep-2-115",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with your identity?"
+  },
+  {
+    "id": "deep-2-116",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a past mistake?"
+  },
+  {
+    "id": "deep-2-117",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a relationship that shaped you?"
+  },
+  {
+    "id": "deep-2-118",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a moment of growth changed over time?"
+  },
+  {
+    "id": "deep-2-119",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a difficult decision?"
+  },
+  {
+    "id": "deep-2-120",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a relationship that shaped you?"
+  },
+  {
+    "id": "deep-2-121",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a relationship that shaped you changed over time?"
+  },
+  {
+    "id": "deep-2-122",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a turning point in your life?"
+  },
+  {
+    "id": "deep-2-123",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a difficult decision changed over time?"
+  },
+  {
+    "id": "deep-2-124",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a past mistake?"
+  },
+  {
+    "id": "deep-2-125",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your childhood changed over time?"
+  },
+  {
+    "id": "deep-2-126",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a difficult decision?"
+  },
+  {
+    "id": "deep-2-127",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has your identity changed over time?"
+  },
+  {
+    "id": "deep-2-128",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How has a hidden insecurity changed over time?"
+  },
+  {
+    "id": "deep-2-129",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a past mistake?"
+  },
+  {
+    "id": "deep-2-130",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a turning point in your life?"
+  },
+  {
+    "id": "deep-2-131",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with your sense of purpose?"
+  },
+  {
+    "id": "deep-2-132",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a hidden insecurity?"
+  },
+  {
+    "id": "deep-2-133",
+    "category": "deep",
+    "level": 2,
+    "prompt": "What lesson did you learn from a core belief?"
+  },
+  {
+    "id": "deep-2-134",
+    "category": "deep",
+    "level": 2,
+    "prompt": "How do you cope with a moment of growth?"
+  },
+  {
+    "id": "deep-3-135",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a hidden insecurity?"
+  },
+  {
+    "id": "deep-3-136",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a hidden insecurity?"
+  },
+  {
+    "id": "deep-3-137",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a turning point in your life fully, what might change?"
+  },
+  {
+    "id": "deep-3-138",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your identity?"
+  },
+  {
+    "id": "deep-3-139",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a regret fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-140",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your sense of purpose?"
+  },
+  {
+    "id": "deep-3-141",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a hidden insecurity?"
+  },
+  {
+    "id": "deep-3-142",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your sense of purpose fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-143",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a regret?"
+  },
+  {
+    "id": "deep-3-144",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a past mistake fully, what might change?"
+  },
+  {
+    "id": "deep-3-145",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a regret fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-146",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a regret?"
+  },
+  {
+    "id": "deep-3-147",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a core belief fully, what might change?"
+  },
+  {
+    "id": "deep-3-148",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a past mistake fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-149",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a turning point in your life fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-150",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a relationship that shaped you fully, what might change?"
+  },
+  {
+    "id": "deep-3-151",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a turning point in your life fully, what might change?"
+  },
+  {
+    "id": "deep-3-152",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your childhood fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-153",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-154",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a core belief fully, what might change?"
+  },
+  {
+    "id": "deep-3-155",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your identity?"
+  },
+  {
+    "id": "deep-3-156",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your biggest fear fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-157",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-158",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a moment of growth fully, what might change?"
+  },
+  {
+    "id": "deep-3-159",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted your biggest fear fully, what might change?"
+  },
+  {
+    "id": "deep-3-160",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-161",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your biggest fear?"
+  },
+  {
+    "id": "deep-3-162",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a regret?"
+  },
+  {
+    "id": "deep-3-163",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a relationship that shaped you fully, what might change?"
+  },
+  {
+    "id": "deep-3-164",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a difficult decision fully, what might change?"
+  },
+  {
+    "id": "deep-3-165",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a hidden insecurity fully, what might change?"
+  },
+  {
+    "id": "deep-3-166",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your childhood?"
+  },
+  {
+    "id": "deep-3-167",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your childhood?"
+  },
+  {
+    "id": "deep-3-168",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-169",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your biggest fear?"
+  },
+  {
+    "id": "deep-3-170",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a core belief fully, what might change?"
+  },
+  {
+    "id": "deep-3-171",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your sense of purpose?"
+  },
+  {
+    "id": "deep-3-172",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a difficult decision fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-173",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your identity fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-174",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a moment of growth fully, what might change?"
+  },
+  {
+    "id": "deep-3-175",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your biggest fear?"
+  },
+  {
+    "id": "deep-3-176",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a moment of growth fully, what might change?"
+  },
+  {
+    "id": "deep-3-177",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your sense of purpose fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-178",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a past mistake fully, what might change?"
+  },
+  {
+    "id": "deep-3-179",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a relationship that shaped you fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-180",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your identity fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-181",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your biggest fear?"
+  },
+  {
+    "id": "deep-3-182",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-183",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your childhood?"
+  },
+  {
+    "id": "deep-3-184",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a core belief?"
+  },
+  {
+    "id": "deep-3-185",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-186",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a relationship that shaped you?"
+  },
+  {
+    "id": "deep-3-187",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a past mistake?"
+  },
+  {
+    "id": "deep-3-188",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted your biggest fear fully, what might change?"
+  },
+  {
+    "id": "deep-3-189",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a hidden insecurity fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-190",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a core belief fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-191",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your sense of purpose fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-192",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your sense of purpose fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-193",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your biggest fear fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-194",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your childhood fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-195",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has a moment of growth fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-196",
+    "category": "deep",
+    "level": 3,
+    "prompt": "How has your childhood fundamentally shaped you?"
+  },
+  {
+    "id": "deep-3-197",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted your identity fully, what might change?"
+  },
+  {
+    "id": "deep-3-198",
+    "category": "deep",
+    "level": 3,
+    "prompt": "If you confronted a past mistake fully, what might change?"
+  },
+  {
+    "id": "deep-3-199",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through your childhood?"
+  },
+  {
+    "id": "deep-3-200",
+    "category": "deep",
+    "level": 3,
+    "prompt": "What truth about yourself have you discovered through a difficult decision?"
+  },
+  {
+    "id": "spicy-1-001",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about jealousy?"
+  },
+  {
+    "id": "spicy-1-002",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about touch?"
+  },
+  {
+    "id": "spicy-1-003",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about private compliments?"
+  },
+  {
+    "id": "spicy-1-004",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about romantic tension?"
+  },
+  {
+    "id": "spicy-1-005",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about intimacy?"
+  },
+  {
+    "id": "spicy-1-006",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about touch?"
+  },
+  {
+    "id": "spicy-1-007",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about intimacy?"
+  },
+  {
+    "id": "spicy-1-008",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes late night conversations exciting for you?"
+  },
+  {
+    "id": "spicy-1-009",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about fantasies?"
+  },
+  {
+    "id": "spicy-1-010",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about being desired?"
+  },
+  {
+    "id": "spicy-1-011",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about touch?"
+  },
+  {
+    "id": "spicy-1-012",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about late night conversations?"
+  },
+  {
+    "id": "spicy-1-013",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about romantic tension?"
+  },
+  {
+    "id": "spicy-1-014",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about intimacy?"
+  },
+  {
+    "id": "spicy-1-015",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about touch?"
+  },
+  {
+    "id": "spicy-1-016",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about touch?"
+  },
+  {
+    "id": "spicy-1-017",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about jealousy?"
+  },
+  {
+    "id": "spicy-1-018",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about fantasies?"
+  },
+  {
+    "id": "spicy-1-019",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about jealousy?"
+  },
+  {
+    "id": "spicy-1-020",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about passion?"
+  },
+  {
+    "id": "spicy-1-021",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about jealousy?"
+  },
+  {
+    "id": "spicy-1-022",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes fantasies exciting for you?"
+  },
+  {
+    "id": "spicy-1-023",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes romantic tension exciting for you?"
+  },
+  {
+    "id": "spicy-1-024",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about jealousy?"
+  },
+  {
+    "id": "spicy-1-025",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about emotional chemistry?"
+  },
+  {
+    "id": "spicy-1-026",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes flirting style exciting for you?"
+  },
+  {
+    "id": "spicy-1-027",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about flirting style?"
+  },
+  {
+    "id": "spicy-1-028",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about passion?"
+  },
+  {
+    "id": "spicy-1-029",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about intimacy?"
+  },
+  {
+    "id": "spicy-1-030",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes passion exciting for you?"
+  },
+  {
+    "id": "spicy-1-031",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes emotional chemistry exciting for you?"
+  },
+  {
+    "id": "spicy-1-032",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about private compliments?"
+  },
+  {
+    "id": "spicy-1-033",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes intimacy exciting for you?"
+  },
+  {
+    "id": "spicy-1-034",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about being desired?"
+  },
+  {
+    "id": "spicy-1-035",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes intimacy exciting for you?"
+  },
+  {
+    "id": "spicy-1-036",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes being desired exciting for you?"
+  },
+  {
+    "id": "spicy-1-037",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about touch?"
+  },
+  {
+    "id": "spicy-1-038",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes late night conversations exciting for you?"
+  },
+  {
+    "id": "spicy-1-039",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about jealousy?"
+  },
+  {
+    "id": "spicy-1-040",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes emotional chemistry exciting for you?"
+  },
+  {
+    "id": "spicy-1-041",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes flirting style exciting for you?"
+  },
+  {
+    "id": "spicy-1-042",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes being desired exciting for you?"
+  },
+  {
+    "id": "spicy-1-043",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes intimacy exciting for you?"
+  },
+  {
+    "id": "spicy-1-044",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about intimacy?"
+  },
+  {
+    "id": "spicy-1-045",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes private compliments exciting for you?"
+  },
+  {
+    "id": "spicy-1-046",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about passion?"
+  },
+  {
+    "id": "spicy-1-047",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about passion?"
+  },
+  {
+    "id": "spicy-1-048",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about romantic tension?"
+  },
+  {
+    "id": "spicy-1-049",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes private compliments exciting for you?"
+  },
+  {
+    "id": "spicy-1-050",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about emotional chemistry?"
+  },
+  {
+    "id": "spicy-1-051",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about being desired?"
+  },
+  {
+    "id": "spicy-1-052",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about emotional chemistry?"
+  },
+  {
+    "id": "spicy-1-053",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes private compliments exciting for you?"
+  },
+  {
+    "id": "spicy-1-054",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about emotional chemistry?"
+  },
+  {
+    "id": "spicy-1-055",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes romantic tension exciting for you?"
+  },
+  {
+    "id": "spicy-1-056",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes being desired exciting for you?"
+  },
+  {
+    "id": "spicy-1-057",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about private compliments?"
+  },
+  {
+    "id": "spicy-1-058",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about intimacy?"
+  },
+  {
+    "id": "spicy-1-059",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes touch exciting for you?"
+  },
+  {
+    "id": "spicy-1-060",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about emotional chemistry?"
+  },
+  {
+    "id": "spicy-1-061",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes passion exciting for you?"
+  },
+  {
+    "id": "spicy-1-062",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about fantasies?"
+  },
+  {
+    "id": "spicy-1-063",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes passion exciting for you?"
+  },
+  {
+    "id": "spicy-1-064",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What\u2019s something playful about jealousy?"
+  },
+  {
+    "id": "spicy-1-065",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes emotional chemistry exciting for you?"
+  },
+  {
+    "id": "spicy-1-066",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What makes intimacy exciting for you?"
+  },
+  {
+    "id": "spicy-1-067",
+    "category": "spicy",
+    "level": 1,
+    "prompt": "What do you like most about being desired?"
+  },
+  {
+    "id": "spicy-2-068",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does private compliments affect your confidence?"
+  },
+  {
+    "id": "spicy-2-069",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does jealousy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-070",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does private compliments feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-071",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does private compliments affect your confidence?"
+  },
+  {
+    "id": "spicy-2-072",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does being desired affect your confidence?"
+  },
+  {
+    "id": "spicy-2-073",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does private compliments play in your relationships?"
+  },
+  {
+    "id": "spicy-2-074",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does intimacy feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-075",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does touch feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-076",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does touch play in your relationships?"
+  },
+  {
+    "id": "spicy-2-077",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does romantic tension affect your confidence?"
+  },
+  {
+    "id": "spicy-2-078",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does intimacy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-079",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does jealousy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-080",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does intimacy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-081",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does private compliments feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-082",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does flirting style play in your relationships?"
+  },
+  {
+    "id": "spicy-2-083",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does physical attraction affect your confidence?"
+  },
+  {
+    "id": "spicy-2-084",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does passion play in your relationships?"
+  },
+  {
+    "id": "spicy-2-085",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does private compliments affect your confidence?"
+  },
+  {
+    "id": "spicy-2-086",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does late night conversations play in your relationships?"
+  },
+  {
+    "id": "spicy-2-087",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does romantic tension affect your confidence?"
+  },
+  {
+    "id": "spicy-2-088",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does touch play in your relationships?"
+  },
+  {
+    "id": "spicy-2-089",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does emotional chemistry play in your relationships?"
+  },
+  {
+    "id": "spicy-2-090",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does emotional chemistry play in your relationships?"
+  },
+  {
+    "id": "spicy-2-091",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does flirting style affect your confidence?"
+  },
+  {
+    "id": "spicy-2-092",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does intimacy play in your relationships?"
+  },
+  {
+    "id": "spicy-2-093",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does romantic tension affect your confidence?"
+  },
+  {
+    "id": "spicy-2-094",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does fantasies play in your relationships?"
+  },
+  {
+    "id": "spicy-2-095",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does romantic tension feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-096",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does late night conversations feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-097",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does physical attraction affect your confidence?"
+  },
+  {
+    "id": "spicy-2-098",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does flirting style feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-099",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does intimacy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-100",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does being desired affect your confidence?"
+  },
+  {
+    "id": "spicy-2-101",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does passion play in your relationships?"
+  },
+  {
+    "id": "spicy-2-102",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does touch feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-103",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does touch affect your confidence?"
+  },
+  {
+    "id": "spicy-2-104",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does passion play in your relationships?"
+  },
+  {
+    "id": "spicy-2-105",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does emotional chemistry play in your relationships?"
+  },
+  {
+    "id": "spicy-2-106",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does intimacy feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-107",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does fantasies play in your relationships?"
+  },
+  {
+    "id": "spicy-2-108",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does touch feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-109",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does physical attraction feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-110",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does private compliments affect your confidence?"
+  },
+  {
+    "id": "spicy-2-111",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does being desired feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-112",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does being desired play in your relationships?"
+  },
+  {
+    "id": "spicy-2-113",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does late night conversations affect your confidence?"
+  },
+  {
+    "id": "spicy-2-114",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does flirting style affect your confidence?"
+  },
+  {
+    "id": "spicy-2-115",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does flirting style feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-116",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does romantic tension affect your confidence?"
+  },
+  {
+    "id": "spicy-2-117",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does physical attraction play in your relationships?"
+  },
+  {
+    "id": "spicy-2-118",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does emotional chemistry feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-119",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does touch play in your relationships?"
+  },
+  {
+    "id": "spicy-2-120",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does intimacy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-121",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does being desired play in your relationships?"
+  },
+  {
+    "id": "spicy-2-122",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does private compliments play in your relationships?"
+  },
+  {
+    "id": "spicy-2-123",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does private compliments play in your relationships?"
+  },
+  {
+    "id": "spicy-2-124",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does romantic tension feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-125",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does being desired play in your relationships?"
+  },
+  {
+    "id": "spicy-2-126",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does late night conversations feel most intense for you?"
+  },
+  {
+    "id": "spicy-2-127",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does late night conversations affect your confidence?"
+  },
+  {
+    "id": "spicy-2-128",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does fantasies affect your confidence?"
+  },
+  {
+    "id": "spicy-2-129",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does passion affect your confidence?"
+  },
+  {
+    "id": "spicy-2-130",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does late night conversations affect your confidence?"
+  },
+  {
+    "id": "spicy-2-131",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does intimacy affect your confidence?"
+  },
+  {
+    "id": "spicy-2-132",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "How does romantic tension affect your confidence?"
+  },
+  {
+    "id": "spicy-2-133",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "What role does flirting style play in your relationships?"
+  },
+  {
+    "id": "spicy-2-134",
+    "category": "spicy",
+    "level": 2,
+    "prompt": "When does touch feel most intense for you?"
+  },
+  {
+    "id": "spicy-3-135",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does touch reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-136",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-137",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-138",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about intimacy?"
+  },
+  {
+    "id": "spicy-3-139",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does fantasies reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-140",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about passion?"
+  },
+  {
+    "id": "spicy-3-141",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does emotional chemistry reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-142",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about romantic tension?"
+  },
+  {
+    "id": "spicy-3-143",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does physical attraction reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-144",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does private compliments reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-145",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does touch reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-146",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to physical attraction?"
+  },
+  {
+    "id": "spicy-3-147",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about being desired?"
+  },
+  {
+    "id": "spicy-3-148",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about touch?"
+  },
+  {
+    "id": "spicy-3-149",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about physical attraction?"
+  },
+  {
+    "id": "spicy-3-150",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about intimacy?"
+  },
+  {
+    "id": "spicy-3-151",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to physical attraction?"
+  },
+  {
+    "id": "spicy-3-152",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-153",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does late night conversations reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-154",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to intimacy?"
+  },
+  {
+    "id": "spicy-3-155",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does touch reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-156",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does late night conversations reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-157",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does romantic tension reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-158",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does jealousy reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-159",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does jealousy reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-160",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to late night conversations?"
+  },
+  {
+    "id": "spicy-3-161",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does flirting style reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-162",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about fantasies?"
+  },
+  {
+    "id": "spicy-3-163",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does emotional chemistry reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-164",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does late night conversations reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-165",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to passion?"
+  },
+  {
+    "id": "spicy-3-166",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-167",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does jealousy reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-168",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to jealousy?"
+  },
+  {
+    "id": "spicy-3-169",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about fantasies?"
+  },
+  {
+    "id": "spicy-3-170",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about physical attraction?"
+  },
+  {
+    "id": "spicy-3-171",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does passion reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-172",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to fantasies?"
+  },
+  {
+    "id": "spicy-3-173",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about being desired?"
+  },
+  {
+    "id": "spicy-3-174",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about jealousy?"
+  },
+  {
+    "id": "spicy-3-175",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-176",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to emotional chemistry?"
+  },
+  {
+    "id": "spicy-3-177",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does being desired reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-178",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to passion?"
+  },
+  {
+    "id": "spicy-3-179",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does intimacy reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-180",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does private compliments reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-181",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to romantic tension?"
+  },
+  {
+    "id": "spicy-3-182",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about late night conversations?"
+  },
+  {
+    "id": "spicy-3-183",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about being desired?"
+  },
+  {
+    "id": "spicy-3-184",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does flirting style reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-185",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to passion?"
+  },
+  {
+    "id": "spicy-3-186",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does passion reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-187",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to romantic tension?"
+  },
+  {
+    "id": "spicy-3-188",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does romantic tension reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-189",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about romantic tension?"
+  },
+  {
+    "id": "spicy-3-190",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does flirting style reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-191",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does private compliments reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-192",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about passion?"
+  },
+  {
+    "id": "spicy-3-193",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does intimacy reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-194",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does emotional chemistry reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-195",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does being desired reveal your bold side?"
+  },
+  {
+    "id": "spicy-3-196",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to passion?"
+  },
+  {
+    "id": "spicy-3-197",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to fantasies?"
+  },
+  {
+    "id": "spicy-3-198",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What\u2019s something you rarely admit about touch?"
+  },
+  {
+    "id": "spicy-3-199",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "What secret desire connects to private compliments?"
+  },
+  {
+    "id": "spicy-3-200",
+    "category": "spicy",
+    "level": 3,
+    "prompt": "How does romantic tension reveal your bold side?"
+  }
+]
