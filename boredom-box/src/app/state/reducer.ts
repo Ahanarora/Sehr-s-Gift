@@ -50,8 +50,17 @@ export const reducer = (state: AppState, action: AppAction): AppState => {
     case "ADD_PLAYER": {
       const name = action.name.trim();
       if (!name) return state;
+      const generatePlayerId = () => {
+        const uuid = typeof globalThis.crypto?.randomUUID === "function"
+          ? globalThis.crypto.randomUUID()
+          : undefined;
+        if (uuid) return `player-${uuid}`;
+        // Fallback for environments without Web Crypto
+        const rand = Math.random().toString(36).slice(2, 10);
+        return `player-${Date.now().toString(36)}-${rand}`;
+      };
       const newPlayer: Player = {
-        id: `player-${crypto.randomUUID?.() ?? Date.now()}`,
+        id: generatePlayerId(),
         name,
         score: 0,
       };
